@@ -1,0 +1,5 @@
+D:/desktop/my_website/backend/out/build/x64-release/CMakeFiles/edit_cache.dir
+D:/desktop/my_website/backend/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+D:/desktop/my_website/backend/out/build/x64-release/backend/CMakeFiles/main.dir
+D:/desktop/my_website/backend/out/build/x64-release/backend/CMakeFiles/edit_cache.dir
+D:/desktop/my_website/backend/out/build/x64-release/backend/CMakeFiles/rebuild_cache.dir
